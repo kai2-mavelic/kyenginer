@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "@cacheable/node-cache": "^1.7.4",
+    "archiver": "^7.0.1",
+    "axios": "^1.13.2",
+    "axios-cookiejar-support": "^6.0.5",
+    "baileys": "github:WhiskeySockets/Baileys",
+    "cheerio": "^1.1.2",
+    "node-fetch": "^3.3.2",
+    "os": "^0.1.2",
+    "pino": "^9.14.0",
+    "qrcode-terminal": "^0.12.0",
+    "qs": "^6.14.1",
+    "tough-cookie": "^6.0.0",
+    "wa-sticker-formatter": "^4.4.4"
+  },
+  "name": "Ky-AI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --inspect --expose-gc index.js",
+    "start": "node launcher.js"
+  },
+  "keywords": [
+    "baileys",
+    "whatsapp",
+    "ky-ai"
+  ],
+  "author": "moe-chan",
+  "license": "MIT",
+  "type": "module",
+  "imports": {
+    "#helper": "./system/helper.js",
+      "#kyhlpr":
+      "./user/helper/kyhlpr.js"
+  }
+}
