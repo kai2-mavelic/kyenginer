@@ -1,0 +1,36 @@
+{
+  "61478765875329@lid": {
+    "nama": "Kyrgyzstan",
+    "umur": "20",
+    "exp": 0,
+    "money": 0,
+    "health": 100,
+    "stamina": 100,
+    "sword": false,
+    "armor": false,
+    "sworddurability": 10,
+    "armordurability": 10,
+    "tiketcoin": 0,
+    "kayu": 0,
+    "batu": 0,
+    "limit": 0,
+    "lastadventure": 0
+  },
+  "152119235629145@lid": {
+    "nama": "wolep",
+    "umur": "-69",
+    "exp": 0,
+    "money": 0,
+    "health": 100,
+    "stamina": 100,
+    "sword": false,
+    "armor": false,
+    "sworddurability": 10,
+    "armordurability": 10,
+    "tiketcoin": 0,
+    "kayu": 0,
+    "batu": 0,
+    "limit": 0,
+    "lastadventure": 0
+  }
+}
